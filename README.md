@@ -1,2 +1,2 @@
 # calculator
-1st project-calc
+1st project-calc.
